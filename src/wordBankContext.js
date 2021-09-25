@@ -1,18 +1,9 @@
 import React, { useState, useLayoutEffect, createContext } from 'react'
-
+import wordsFile from './words.json'
 export const WordContext = createContext()
 
 export const WordProvider = (props) => {
-    const [words, setwords] = useState([])
-
-    useLayoutEffect(() => {
-        fetch('/words.json')
-            .then(res => res.json())
-            .then(data => {
-                setwords(data.words)
-            }).catch(err => console.log(err))
-    }, [])
-
+    const [words, setwords] = useState(wordsFile.words)
     return (
         <>
         {   words.length &&
