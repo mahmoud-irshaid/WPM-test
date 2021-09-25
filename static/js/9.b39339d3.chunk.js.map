@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/word.js"],"names":["Word","word"],"mappings":"2HAGeA,UAHf,YAAuB,IAARC,EAAO,EAAPA,KACX,OAAQ,+BAAOA","file":"static/js/9.b39339d3.chunk.js","sourcesContent":["function Word({word}) {\r\n    return (<span>{word}</span>)\r\n}\r\nexport default Word"],"sourceRoot":""}

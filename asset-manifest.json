@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/WPM-test/static/js/main.3ffb5de9.chunk.js",
+    "main.js.map": "/WPM-test/static/js/main.3ffb5de9.chunk.js.map",
+    "runtime-main.js": "/WPM-test/static/js/runtime-main.0061a889.js",
+    "runtime-main.js.map": "/WPM-test/static/js/runtime-main.0061a889.js.map",
+    "static/js/2.6f520b00.chunk.js": "/WPM-test/static/js/2.6f520b00.chunk.js",
+    "static/js/2.6f520b00.chunk.js.map": "/WPM-test/static/js/2.6f520b00.chunk.js.map",
+    "static/js/3.e9dae4c1.chunk.js": "/WPM-test/static/js/3.e9dae4c1.chunk.js",
+    "static/js/3.e9dae4c1.chunk.js.map": "/WPM-test/static/js/3.e9dae4c1.chunk.js.map",
+    "static/js/4.659019e3.chunk.js": "/WPM-test/static/js/4.659019e3.chunk.js",
+    "static/js/4.659019e3.chunk.js.map": "/WPM-test/static/js/4.659019e3.chunk.js.map",
+    "static/js/5.965da419.chunk.js": "/WPM-test/static/js/5.965da419.chunk.js",
+    "static/js/5.965da419.chunk.js.map": "/WPM-test/static/js/5.965da419.chunk.js.map",
+    "static/js/6.bcdf9e02.chunk.js": "/WPM-test/static/js/6.bcdf9e02.chunk.js",
+    "static/js/6.bcdf9e02.chunk.js.map": "/WPM-test/static/js/6.bcdf9e02.chunk.js.map",
+    "static/js/7.67fe8364.chunk.js": "/WPM-test/static/js/7.67fe8364.chunk.js",
+    "static/js/7.67fe8364.chunk.js.map": "/WPM-test/static/js/7.67fe8364.chunk.js.map",
+    "static/js/8.31e24ea7.chunk.js": "/WPM-test/static/js/8.31e24ea7.chunk.js",
+    "static/js/8.31e24ea7.chunk.js.map": "/WPM-test/static/js/8.31e24ea7.chunk.js.map",
+    "static/js/9.b39339d3.chunk.js": "/WPM-test/static/js/9.b39339d3.chunk.js",
+    "static/js/9.b39339d3.chunk.js.map": "/WPM-test/static/js/9.b39339d3.chunk.js.map",
+    "static/js/10.c5db391a.chunk.js": "/WPM-test/static/js/10.c5db391a.chunk.js",
+    "static/js/10.c5db391a.chunk.js.map": "/WPM-test/static/js/10.c5db391a.chunk.js.map",
+    "index.html": "/WPM-test/index.html",
+    "static/js/2.6f520b00.chunk.js.LICENSE.txt": "/WPM-test/static/js/2.6f520b00.chunk.js.LICENSE.txt",
+    "static/js/5.965da419.chunk.js.LICENSE.txt": "/WPM-test/static/js/5.965da419.chunk.js.LICENSE.txt",
+    "static/media/correct.fd94c9d0.wav": "/WPM-test/static/media/correct.fd94c9d0.wav",
+    "static/media/wrong.b9fb0d62.wav": "/WPM-test/static/media/wrong.b9fb0d62.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0061a889.js",
+    "static/js/2.6f520b00.chunk.js",
+    "static/js/main.3ffb5de9.chunk.js"
+  ]
+}
