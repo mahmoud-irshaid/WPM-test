@@ -9,7 +9,7 @@ function App() {
   
   return (
     <>
-    <Router basename='/'>
+    <Router basename={process.env.PUBLIC_URL}>
       <Suspense fallback={<div>Loading...</div>}>
       <Switch>
         <Route path='/scores' component={Scores} />
