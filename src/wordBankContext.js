@@ -1,4 +1,4 @@
-import React, { useState, useLayoutEffect, createContext } from 'react'
+import React, { useState, createContext } from 'react'
 import wordsFile from './words.json'
 export const WordContext = createContext()
 
