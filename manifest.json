@@ -2,7 +2,7 @@
   "name": "WPM test",
   "short_name": "WPM",
   "theme_color": "#000000",
-  "background_color": "#000000",
+  "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "/index.html",
