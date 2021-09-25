@@ -3,9 +3,9 @@
   "short_name": "WPM",
   "theme_color": "#000000",
   "background_color": "#000000",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
-  "start_url": "/",
+  "start_url": "/index.html",
   "icons": [
     {
       "src": "/pwa-icons/Frame 1-72.png",
