@@ -176,7 +176,7 @@ export default function Home() {
                     <Typer chkWord={chkWord} getStarted={getStarted} forwardedRef={ref}/>
                     </div>
                     {gameover && <p className='gameover'>Game Over !!!</p>}
-                    <button id='restart' onClick={()=>window.location.reload()}>Restart <img src='/restart.svg'/></button>
+                    <button id='restart' onClick={()=>window.location.reload()}>Restart <img src='restart.svg'/></button>
 
                     <div id='correct'></div>
                 </div>
@@ -184,7 +184,7 @@ export default function Home() {
             </div>
             {gameover && <Suspense><Modal score={score} score2={score2}></Modal></Suspense>}
 
-           <a id='copy' href='https://github.com/mahmoud-irshaid'><img src='/github.png' /> @2021 CopyRight By Mahmoud Irshaid</a>
+           <a id='copy' href='https://github.com/mahmoud-irshaid'><img src='github.png' /> @2021 CopyRight By Mahmoud Irshaid</a>
         </>
     )
 }

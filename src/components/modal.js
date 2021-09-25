@@ -12,7 +12,7 @@ export default function Modal({ score, score2 }) {
             <div className='modalinside'>
                 <div className='closeModal'>
                     <span>Congrats !</span>
-                    <img src='/delete.svg' onClick={closeModal} />
+                    <img src='delete.svg' onClick={closeModal} />
                 </div>
                 <p>Your score : </p>
                 <b>{score}</b>
