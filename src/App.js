@@ -9,12 +9,12 @@ function App() {
   
   return (
     <>
-    <Router>
+    <Router basename='/'>
       <Suspense fallback={<div>Loading...</div>}>
       <Switch>
-        <Route path='/WPM-test/scores' component={Scores} />
-        <Route path='/WPM-test/about' component={About} />
-        <Route path='/WPM-test' component={Home} />
+        <Route path='/scores' component={Scores} />
+        <Route path='/about' component={About} />
+        <Route path='/' component={Home} />
       </Switch>
       </Suspense>
     </Router>
