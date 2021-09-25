@@ -8,47 +8,47 @@
   "start_url": "/index.html",
   "icons": [
     {
-      "src": "/pwa-icons/Frame 1-72.png",
+      "src": "./pwa-icons/Frame 1-72.png",
       "type": "image/png",
       "sizes": "72x80"    
     },
     {
-      "src": "/pwa-icons/Frame 1-96.png",
+      "src": "./pwa-icons/Frame 1-96.png",
       "type": "image/png",
       "sizes": "96x106"
     },
     {
-      "src": "/pwa-icons/Frame 1-128.png",
+      "src": "./pwa-icons/Frame 1-128.png",
       "type": "image/png",
       "sizes": "128x142"
     },
     {
-      "src": "/pwa-icons/Frame 1-144.png",
+      "src": "./pwa-icons/Frame 1-144.png",
       "type": "image/png",
       "sizes": "144x160"
     },
     {
-      "src": "/pwa-icons/Frame 1-152.png",
+      "src": "./pwa-icons/Frame 1-152.png",
       "type": "image/png",
       "sizes": "152x168"
     },
     {
-      "src": "/pwa-icons/Frame 1-180.png",
+      "src": "./pwa-icons/Frame 1-180.png",
       "type": "image/png",
       "sizes": "180x199"
     },
     {
-      "src": "/pwa-icons/Frame 1-192.png",
+      "src": "./pwa-icons/Frame 1-192.png",
       "type": "image/png",
       "sizes": "192x213"
     },
     {
-      "src": "/pwa-icons/Frame 1-384.png",
+      "src": "./pwa-icons/Frame 1-384.png",
       "type": "image/png",
       "sizes": "384x426"
     },
     {
-      "src": "/pwa-icons/Frame 1-512.png",
+      "src": "./pwa-icons/Frame 1-512.png",
       "type": "image/png",
       "sizes": "512x567"
     }
