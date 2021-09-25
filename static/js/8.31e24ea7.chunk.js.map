@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/timer.js"],"names":["Timer","time"],"mappings":"yGAAA,uBAIeA,UAHD,SAAC,GAAY,IAAXC,EAAU,EAAVA,KACZ,OAAQ,+BAAOA","file":"static/js/8.31e24ea7.chunk.js","sourcesContent":["import React, { Component } from 'react';\r\nconst Timer = ({time}) => {\r\n    return (<span>{time}</span>)\r\n}\r\nexport default Timer;\r\n"],"sourceRoot":""}

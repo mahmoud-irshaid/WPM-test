@@ -1,2 +1,0 @@
-(this["webpackJsonpwpm-app"]=this["webpackJsonpwpm-app"]||[]).push([[9],{35:function(p,n,s){"use strict";s.r(n);var t=s(1);n.default=function(p){var n=p.word;return Object(t.jsx)("span",{children:n})}}}]);
-//# sourceMappingURL=9.b39339d3.chunk.js.map
