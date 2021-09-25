@@ -5,15 +5,15 @@ export default function Nav() {
     return (
             <nav>
                 <ul>
-                    <Link to='/WPM-test/Home'>
+                    <Link to='/Home'>
                         <li style={{animationDelay: '.25s'}}>Home</li>
                     </Link>
 
-                    <Link to='/WPM-test/scores'>
+                    <Link to='/scores'>
                         <li style={{animationDelay: '.5s'}}>Scores</li>
                     </Link>
 
-                    <Link to='/WPM-test/about'>
+                    <Link to='/about'>
                         <li style={{animationDelay: '.75s'}}>About</li>
                     </Link>
                 </ul>
