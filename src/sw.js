@@ -2,7 +2,7 @@ export default function LocalServiceWorkerRegister() {
 
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', function () {
-            navigator.serviceWorker.register('/serviceWorker.js').then(function (registration) {
+            navigator.serviceWorker.register('serviceWorker.js').then(function (registration) {
                 console.log('Worker registration successful', registration.scope);
 
 

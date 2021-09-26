@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Router basename={`${process.env.PUBLIC_URL}/`}>
-      <Suspense fallback={<div class="spinner-4"></div>}>
+      <Suspense fallback={<center class="spinner-4"></center>}>
       <Switch>
         <Route path='/scores' component={Scores} />
         <Route path='/about' component={About} />

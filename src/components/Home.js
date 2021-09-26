@@ -97,7 +97,7 @@ export default function Home() {
             setcutter(0)
 
             let correct = document.createElement('span')
-            correct.innerHTML = wordsList[0] + ' '
+            correct.innerHTML = wordsList[0] + ', '
             document.getElementById('correct').appendChild(correct)
 
             wordsList.splice(0, 1)

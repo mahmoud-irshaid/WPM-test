@@ -5,8 +5,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "/index.html",
-  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "./pwa-icons/Frame 1-72.png",
