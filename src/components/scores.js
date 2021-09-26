@@ -16,7 +16,7 @@ export default function Scores() {
             <Header />
             <div className='scores'>
                 <h2>Your Best Scores</h2>
-                <img src='ranking.svg'/>
+                <img src='ranking.svg' alt='top 3'/>
                 <ul>
                     {bestScores ? bestScores.map(score => (
                         <li>- {score} word/min</li>
@@ -25,7 +25,7 @@ export default function Scores() {
                     }
                 </ul>
             </div>
-            <a id='copy' href='https://github.com/mahmoud-irshaid'><img src='github.png' /> @2021 CopyRight By Mahmoud Irshaid</a>
+            <a id='copy' href='https://github.com/mahmoud-irshaid'><img src='github.png' alt='github photo'/> @2021 CopyRight By Mahmoud Irshaid</a>
         </>
     )
 }

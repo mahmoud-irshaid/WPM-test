@@ -17,7 +17,7 @@ export default function about() {
                     Your best three scores will be saved in the scores page. Good Luck ! 
                 </p>
             </div>
-            <a id='copy' target="_blank"  href='https://github.com/mahmoud-irshaid'><img src='github.png' /> @2021 CopyRight By Mahmoud Irshaid</a>
+            <a id='copy' target="_blank"  href='https://github.com/mahmoud-irshaid'><img src='github.png' alt='github photo' /> @2021 CopyRight By Mahmoud Irshaid</a>
         </>
     )
 }

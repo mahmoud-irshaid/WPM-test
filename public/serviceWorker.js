@@ -1,15 +1,15 @@
 const staticCacheName = 'site-static-v2';
 const dynamicCacheName = 'site-dynamic-v1';
 const assets = [
-  '/',
-  '/index.html',
-  '/src/index.js',
-  '/src/App.js',
-  '/style/style.css',
-  '/delete.svg',
-  '/patternpad.svg',
-  '/triangleAsymmetrical.svg',
-  '/menu.svg',
+  './',
+  './index.html',
+  './src/index.js',
+  './src/App.js',
+  './style/style.css',
+  './assets/delete.svg',
+  './assets/patternpad.svg',
+  './assets/triangleAsymmetrical.svg',
+  './assets/menu.svg',
   'https://fonts.googleapis.com/css2?family=Tourney:ital,wdth,wght@1,107.1,350&display=swap',
   'https://fonts.googleapis.com/css2?family=Sora&display=swap',
  
@@ -67,7 +67,7 @@ self.addEventListener('fetch', evt => {
       });
     }).catch(() => {
       if(evt.request.url.indexOf('.html') > -1){
-        return caches.match('fallback.html');
+        return caches.match('./fallback.html');
       } 
     })
   );
